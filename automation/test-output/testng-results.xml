@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-22T01:57:02 IST" name="Default suite" finished-at="2024-06-22T01:57:40 IST" duration-ms="38238">
+    <groups>
+    </groups>
+    <test started-at="2024-06-22T01:57:02 IST" name="Default test" finished-at="2024-06-22T01:57:40 IST" duration-ms="38238">
+      <class name="saucelabs.automation.HomepageTest">
+        <test-method signature="Homepage()[pri:1, instance:saucelabs.automation.HomepageTest@7dcf94f8]" started-at="2024-06-22T01:57:02 IST" name="Homepage" finished-at="2024-06-22T01:57:14 IST" duration-ms="12135" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Homepage -->
+        <test-method signature="Productspage()[pri:2, instance:saucelabs.automation.HomepageTest@7dcf94f8]" started-at="2024-06-22T01:57:14 IST" name="Productspage" finished-at="2024-06-22T01:57:20 IST" duration-ms="5927" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Productspage -->
+        <test-method signature="Cartpage()[pri:3, instance:saucelabs.automation.HomepageTest@7dcf94f8]" started-at="2024-06-22T01:57:20 IST" name="Cartpage" finished-at="2024-06-22T01:57:34 IST" duration-ms="13568" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Cartpage -->
+        <test-method signature="Checkoutpage()[pri:4, instance:saucelabs.automation.HomepageTest@7dcf94f8]" started-at="2024-06-22T01:57:34 IST" name="Checkoutpage" finished-at="2024-06-22T01:57:39 IST" duration-ms="5485" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Checkoutpage -->
+        <test-method signature="Overviewpage()[pri:5, instance:saucelabs.automation.HomepageTest@7dcf94f8]" started-at="2024-06-22T01:57:39 IST" name="Overviewpage" finished-at="2024-06-22T01:57:39 IST" duration-ms="163" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Overviewpage -->
+        <test-method signature="Finishpage()[pri:6, instance:saucelabs.automation.HomepageTest@7dcf94f8]" started-at="2024-06-22T01:57:39 IST" name="Finishpage" finished-at="2024-06-22T01:57:40 IST" duration-ms="866" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Finishpage -->
+      </class> <!-- saucelabs.automation.HomepageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
