@@ -1,1 +1,1 @@
-# SauceLabsSeleniumFramewaork
+# SauceLabsSeleniumFramework
